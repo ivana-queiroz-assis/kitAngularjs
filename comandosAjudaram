@@ -1,0 +1,2 @@
+comandos que me ajudaram:
+- resetar pra restricted: Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
